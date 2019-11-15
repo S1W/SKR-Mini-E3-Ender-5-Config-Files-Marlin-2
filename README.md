@@ -1,8 +1,9 @@
-# Ender-5/SKR Mini E3 v1.0 Config Files
+Forked from sky8000. Updated for SKR Mini E3 V1.2
 
-This repository contains Marlin custom config files for **Creality Ender-5** printers with a BIGTREETECH SKR Mini E3 v1.0 motherboard.  Settings used are also compatible with **Ender-3** and **Ender-3 Pro**, just be sure to use the correct config examples for your printer. For more information about which settings to change please browse to the config folder in this repository and read the readme.md files.
 
-Please note that this configuration is **not compatible with SKR Mini E3 v1.2**.
+# Ender-5/SKR Mini E3 v1.2 Config Files
+
+This repository contains Marlin custom config files for **Creality Ender-5** printers with a BIGTREETECH SKR Mini E3 v1.2 motherboard.  Settings used are also compatible with **Ender-3** and **Ender-3 Pro**, just be sure to use the correct config examples for your printer. For more information about which settings to change please browse to the config folder in this repository and read the readme.md files.
 
 Features:
 
@@ -16,7 +17,7 @@ Features:
 
   
 
-**Updated on 2019-11-14.**
+**Updated on 2019-11-15.**
 
 
 
